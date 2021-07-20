@@ -47,11 +47,11 @@ div.main {
 
 .flex-container {
   display: flex;
+  align-items: center;
 }
 
 .container {
   display: flex;
-  align-items: center;
 }
 
 .gallery {
